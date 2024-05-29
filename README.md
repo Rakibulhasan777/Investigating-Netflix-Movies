@@ -2,8 +2,8 @@
 
 ## Project Overview
 Netflix believes that the average duration of movies has been declining.This data analysis project aims to do initial research and delve into the Netflix data to determine whether movie lengths are actually getting shorter and explain some of the contributing factors, if any. Additional Questions: 
-    * What was the most frequent movie duration in the 1990s?
-    * A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s.
+   * What was the most frequent movie duration in the 1990s?
+   * A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s.
 
 ## The Data
 Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
